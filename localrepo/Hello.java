@@ -4,6 +4,9 @@ class Hello
 	{
 		String hello=" This is first java program";
 		System.out.println(hello);
+	        System.out.println("this is master file");
+                String str="
+
 	}
 }
 
